@@ -17,8 +17,9 @@ Validate the form to allow submission. The validations should include common con
 And any other validation you think is needed.
 
 
-![image](https://user-images.githubusercontent.com/69279953/110867899-9b00cd80-82d8-11eb-837d-2cc95f203cf5.png) 
+![image](https://user-images.githubusercontent.com/69279953/110868539-d64fcc00-82d9-11eb-8905-74585fdc1e91.png)
 
-![image](https://user-images.githubusercontent.com/69279953/110867941-b53aab80-82d8-11eb-9250-c90077578468.png)
+![image](https://user-images.githubusercontent.com/69279953/110868625-fbdcd580-82d9-11eb-82a9-deda251ec961.png)
 
-![image](https://user-images.githubusercontent.com/69279953/110867971-bff54080-82d8-11eb-8da7-22b5835e2b16.png)
+![image](https://user-images.githubusercontent.com/69279953/110868673-0f883c00-82da-11eb-969c-d79abd16f79a.png)
+
